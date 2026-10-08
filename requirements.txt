@@ -1,6 +1,0 @@
-streamlit
-keras
-torch
-numpy
-pillow
-scikit-learn
