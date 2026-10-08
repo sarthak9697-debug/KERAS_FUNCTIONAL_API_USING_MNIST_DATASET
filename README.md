@@ -1,2 +1,2 @@
 # KERAS_FUNCTIONAL_API_USING_MNIST_DATASET
-Built and deployed a deep learning model to classify handwritten digits (0–9), with image preprocessing, prediction confidence, and recruiter-friendly sample inputs.
+Built an MNIST digit classifier using Keras Functional API with pixel normalization, one-hot encoding, and 80/20 train-validation splitting. Implemented deep neural networks with ReLU, Softmax, Adam/SGD optimization, and Dropout to reduce overfitting and improve digit classification.
